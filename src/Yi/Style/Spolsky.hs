@@ -11,6 +11,16 @@ module Yi.Style.Spolsky
        ( spolskyTheme
 
          -- Colours
+       , spolskyNormal
+       , spolskyBackground
+       , spolskyVisualSelection
+       , spolskyCurrentLine
+       , spolskyOperators
+       , spolskyComments
+       , spolskyKeywords
+       , spolskyString
+       , spolskyTypeFace
+       , spolskyWarning
        )
        where
 
