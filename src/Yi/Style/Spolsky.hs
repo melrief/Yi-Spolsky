@@ -1,6 +1,6 @@
 -- |
 -- Module      :  Yi.Style.Spolsky
--- Copyright   :  (c) Mario Pastorelli 2013
+-- Copyright   :  (c) Mario Pastorelli 2014
 -- License     :  BSD3
 --
 -- Maintainer  :  pastorelli.mario@gmail.com
